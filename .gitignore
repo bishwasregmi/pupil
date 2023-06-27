@@ -2,6 +2,9 @@
 .DS_Store
 Thumbs.db
 
+# Python venv
+pupil-env/
+
 # python generated files #
 *.pyc
 *.pstats
